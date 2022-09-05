@@ -1,0 +1,288 @@
+[[Thrift]]
+arch = "aarch64"
+git-tree-sha1 = "6db94dab8e98dab5bc4428a316ba3f44540bdef2"
+os = "macos"
+
+    [[Thrift.download]]
+    sha256 = "71918a210063e2357fd30d01bc57b4fe7649eb9fdbb38b1f9ca7d25937b04746"
+    url = "https://github.com/JuliaBinaryWrappers/Thrift_jll.jl/releases/download/Thrift-v0.16.0+0/Thrift.v0.16.0.aarch64-apple-darwin.tar.gz"
+[[Thrift]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f26907dfe0edc4faaa23d83cee27be978479363b"
+libc = "glibc"
+os = "linux"
+
+    [[Thrift.download]]
+    sha256 = "da46f203a5faf9b3957ef81f66c38e54b92c5eac28cb9a5f64ace16901fdb100"
+    url = "https://github.com/JuliaBinaryWrappers/Thrift_jll.jl/releases/download/Thrift-v0.16.0+0/Thrift.v0.16.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[Thrift]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "545da387efbbf1c8a7dd903083620da3e29f01a5"
+libc = "glibc"
+os = "linux"
+
+    [[Thrift.download]]
+    sha256 = "00d5d31a685bf95c1b7983e3aabaa1067b12b57f84f722bd80921e7a67801f55"
+    url = "https://github.com/JuliaBinaryWrappers/Thrift_jll.jl/releases/download/Thrift-v0.16.0+0/Thrift.v0.16.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[Thrift]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6b1cedfd5c4b7f6c91e7fbbacef228319e9dda1a"
+libc = "musl"
+os = "linux"
+
+    [[Thrift.download]]
+    sha256 = "8f953878596f1b988e04c861c21af47a80576b665c55dc0f20877d435c8ef034"
+    url = "https://github.com/JuliaBinaryWrappers/Thrift_jll.jl/releases/download/Thrift-v0.16.0+0/Thrift.v0.16.0.aarch64-linux-musl-cxx03.tar.gz"
+[[Thrift]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c48e5693f8abe9636d3117aef014f40e525e7f14"
+libc = "musl"
+os = "linux"
+
+    [[Thrift.download]]
+    sha256 = "d711f9190a6434817653a4776de693aedbc7aa2f112d4064bcdef13fca4bd5e6"
+    url = "https://github.com/JuliaBinaryWrappers/Thrift_jll.jl/releases/download/Thrift-v0.16.0+0/Thrift.v0.16.0.aarch64-linux-musl-cxx11.tar.gz"
+[[Thrift]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8454b124d2491c7e2889d681756f89dad2f6181e"
+libc = "glibc"
+os = "linux"
+
+    [[Thrift.download]]
+    sha256 = "5c2c0749d14d4f91e749f9dde5dbcd206ccdc57bcc0cbc6d369ee6d1120409de"
+    url = "https://github.com/JuliaBinaryWrappers/Thrift_jll.jl/releases/download/Thrift-v0.16.0+0/Thrift.v0.16.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[Thrift]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7d511bcdec7876e6c7c040ba58b84b532c98b1b3"
+libc = "glibc"
+os = "linux"
+
+    [[Thrift.download]]
+    sha256 = "190765c6e21821c3c72a04994762850b05549897add3a2841a4e788096b6faab"
+    url = "https://github.com/JuliaBinaryWrappers/Thrift_jll.jl/releases/download/Thrift-v0.16.0+0/Thrift.v0.16.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Thrift]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "10bf5b8751bb912ba35c74fc23d990af92c69ccf"
+libc = "musl"
+os = "linux"
+
+    [[Thrift.download]]
+    sha256 = "fce7ce62dd1ed8385e6e86ea841c3d48caa0d803d40fd98a7ddd19fe9c2b1ae1"
+    url = "https://github.com/JuliaBinaryWrappers/Thrift_jll.jl/releases/download/Thrift-v0.16.0+0/Thrift.v0.16.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[Thrift]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "090195fbf95f9bc1bfb8dc5cebdf27703aecb74e"
+libc = "musl"
+os = "linux"
+
+    [[Thrift.download]]
+    sha256 = "2bc3db2e57a3123e160131cd5d5eea1326443ec6490ca90dad996b2965cbc634"
+    url = "https://github.com/JuliaBinaryWrappers/Thrift_jll.jl/releases/download/Thrift-v0.16.0+0/Thrift.v0.16.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[Thrift]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "626c672942887b4d854616d549c4ac59cb57709f"
+libc = "glibc"
+os = "linux"
+
+    [[Thrift.download]]
+    sha256 = "03fa4a510a29970f20dd7ead59bd426ca12e4757b178a5c2a259e0342619d99f"
+    url = "https://github.com/JuliaBinaryWrappers/Thrift_jll.jl/releases/download/Thrift-v0.16.0+0/Thrift.v0.16.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Thrift]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e08b461bd29ede7554c9520b8ca9742bce6e7fe4"
+libc = "glibc"
+os = "linux"
+
+    [[Thrift.download]]
+    sha256 = "3e98fee1b3d48df93265d5c127abb842619f1f80c6471c64f8f46420577fa6c6"
+    url = "https://github.com/JuliaBinaryWrappers/Thrift_jll.jl/releases/download/Thrift-v0.16.0+0/Thrift.v0.16.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Thrift]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "faec8a898d937d1db7c5145874d385dfb9f25a91"
+libc = "musl"
+os = "linux"
+
+    [[Thrift.download]]
+    sha256 = "7f93c62ced5517948dc5e529b423d8c810f3f863979e92a53108e9851f8d2f76"
+    url = "https://github.com/JuliaBinaryWrappers/Thrift_jll.jl/releases/download/Thrift-v0.16.0+0/Thrift.v0.16.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Thrift]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5f7a61346527a54b29b5cd54376e2b4d1d139285"
+libc = "musl"
+os = "linux"
+
+    [[Thrift.download]]
+    sha256 = "955132c81006b41fa79c26e834e1fa0dd387e159d8a884e80c243201461343a9"
+    url = "https://github.com/JuliaBinaryWrappers/Thrift_jll.jl/releases/download/Thrift-v0.16.0+0/Thrift.v0.16.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Thrift]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bef8f75f173e5d00d96fa768fe7695274cc5f059"
+libc = "glibc"
+os = "linux"
+
+    [[Thrift.download]]
+    sha256 = "38ac086e56ba1f6f1b18e5c89dc9729c1c3204ba8a4ac622febafad24f3715b5"
+    url = "https://github.com/JuliaBinaryWrappers/Thrift_jll.jl/releases/download/Thrift-v0.16.0+0/Thrift.v0.16.0.i686-linux-gnu-cxx03.tar.gz"
+[[Thrift]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "091d056b2ae0ed18fb730f30b9331ddd68bb2887"
+libc = "glibc"
+os = "linux"
+
+    [[Thrift.download]]
+    sha256 = "e3bd71e061e1dafbb060fe5355e1b3499081aebe754dc43e3640292e07d83aa3"
+    url = "https://github.com/JuliaBinaryWrappers/Thrift_jll.jl/releases/download/Thrift-v0.16.0+0/Thrift.v0.16.0.i686-linux-gnu-cxx11.tar.gz"
+[[Thrift]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e99d2e050319ff571b97df0ef40a496afe27b5b3"
+libc = "musl"
+os = "linux"
+
+    [[Thrift.download]]
+    sha256 = "fb8ed9fa56830cd22cc08052fa3539e89cf29f6d4148d9dca964fd7f51bb4b01"
+    url = "https://github.com/JuliaBinaryWrappers/Thrift_jll.jl/releases/download/Thrift-v0.16.0+0/Thrift.v0.16.0.i686-linux-musl-cxx03.tar.gz"
+[[Thrift]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "68889aa84de5cbcc7f431e20f95cbf788d0dc310"
+libc = "musl"
+os = "linux"
+
+    [[Thrift.download]]
+    sha256 = "ce1832860d48a3ac591ea0e6b6848bfbf73d38b84255e77e1f292b3cadf30876"
+    url = "https://github.com/JuliaBinaryWrappers/Thrift_jll.jl/releases/download/Thrift-v0.16.0+0/Thrift.v0.16.0.i686-linux-musl-cxx11.tar.gz"
+[[Thrift]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "195f4b626409fafd1666ab874a3d19b77e87a441"
+os = "windows"
+
+    [[Thrift.download]]
+    sha256 = "f1c12d8112a61091ca2788b1a911a5797a53c9870a673a56d6585aa00442d9fb"
+    url = "https://github.com/JuliaBinaryWrappers/Thrift_jll.jl/releases/download/Thrift-v0.16.0+0/Thrift.v0.16.0.i686-w64-mingw32-cxx03.tar.gz"
+[[Thrift]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "11cdc723819a28e34d6c41c54bf8e2940de07c90"
+os = "windows"
+
+    [[Thrift.download]]
+    sha256 = "d6463f52e9d5f3dfca3ee5025c9fe300d4eb9ac62d0d872632d0c35c58241661"
+    url = "https://github.com/JuliaBinaryWrappers/Thrift_jll.jl/releases/download/Thrift-v0.16.0+0/Thrift.v0.16.0.i686-w64-mingw32-cxx11.tar.gz"
+[[Thrift]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "742b664e25f540b5ba86e4acb0859d3eecfaff73"
+libc = "glibc"
+os = "linux"
+
+    [[Thrift.download]]
+    sha256 = "efc25c377797e72583c5d7b9d1b04df7a052a26b15920c6349e52ef35b4304bd"
+    url = "https://github.com/JuliaBinaryWrappers/Thrift_jll.jl/releases/download/Thrift-v0.16.0+0/Thrift.v0.16.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Thrift]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b5f4e9eb2bde9de7fabf728c3eac90550fc5b7c9"
+libc = "glibc"
+os = "linux"
+
+    [[Thrift.download]]
+    sha256 = "0152813be6a30a007e214fa5dc2f0eaf8a492397667d6990061617b086d3de53"
+    url = "https://github.com/JuliaBinaryWrappers/Thrift_jll.jl/releases/download/Thrift-v0.16.0+0/Thrift.v0.16.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Thrift]]
+arch = "x86_64"
+git-tree-sha1 = "69806e8011e952bf014d99eec7e69d7d8b0b9749"
+os = "macos"
+
+    [[Thrift.download]]
+    sha256 = "f66400eb1fc24cebd958c6b215db7b8b6bdcaa432dd86e76771adb90efd254d8"
+    url = "https://github.com/JuliaBinaryWrappers/Thrift_jll.jl/releases/download/Thrift-v0.16.0+0/Thrift.v0.16.0.x86_64-apple-darwin.tar.gz"
+[[Thrift]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fb32f32051bf3ac723b5980eb1516c65633d4650"
+libc = "glibc"
+os = "linux"
+
+    [[Thrift.download]]
+    sha256 = "1d5fe9fb6f4f36ff5eca0c1e5144e7c7e803c04de9977a14c65b25e80152b1f5"
+    url = "https://github.com/JuliaBinaryWrappers/Thrift_jll.jl/releases/download/Thrift-v0.16.0+0/Thrift.v0.16.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[Thrift]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "910288251f4fea79fe050ae7a8e75e3959d88a7f"
+libc = "glibc"
+os = "linux"
+
+    [[Thrift.download]]
+    sha256 = "f96bd01183a5f76f9a043414abf3fc7eece5fd3d13f0d055a6818f8d1dad1b95"
+    url = "https://github.com/JuliaBinaryWrappers/Thrift_jll.jl/releases/download/Thrift-v0.16.0+0/Thrift.v0.16.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[Thrift]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c4fcc7f4399cf57bdcbb9ad709245830821ef570"
+libc = "musl"
+os = "linux"
+
+    [[Thrift.download]]
+    sha256 = "183b4023a34d44cce87b4d41570fecaafca41a6adb005f6e0b1001e3a05a12c3"
+    url = "https://github.com/JuliaBinaryWrappers/Thrift_jll.jl/releases/download/Thrift-v0.16.0+0/Thrift.v0.16.0.x86_64-linux-musl-cxx03.tar.gz"
+[[Thrift]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "043c93a8cfac0663c75ae0048dfdf833384f87a4"
+libc = "musl"
+os = "linux"
+
+    [[Thrift.download]]
+    sha256 = "f56749df604676b11397ec481331d37a81943d95136917aaf9d2739014568c06"
+    url = "https://github.com/JuliaBinaryWrappers/Thrift_jll.jl/releases/download/Thrift-v0.16.0+0/Thrift.v0.16.0.x86_64-linux-musl-cxx11.tar.gz"
+[[Thrift]]
+arch = "x86_64"
+git-tree-sha1 = "ee413393ecd087bea01659009f5d9a32f625342e"
+os = "freebsd"
+
+    [[Thrift.download]]
+    sha256 = "ac4da4daa09d9b69c5433b1a38a822225296e7015b9e85a24c04c2ba129be804"
+    url = "https://github.com/JuliaBinaryWrappers/Thrift_jll.jl/releases/download/Thrift-v0.16.0+0/Thrift.v0.16.0.x86_64-unknown-freebsd.tar.gz"
+[[Thrift]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "61ae5bfa20112115d09af35c0771dae1f3627a8b"
+os = "windows"
+
+    [[Thrift.download]]
+    sha256 = "854fb8682e76c76333c0b910c7737e456608937f01c1c9b430fbd0e12aaa3d39"
+    url = "https://github.com/JuliaBinaryWrappers/Thrift_jll.jl/releases/download/Thrift-v0.16.0+0/Thrift.v0.16.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Thrift]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9c9d5d21081d79fb66bb9aaeea87960a22c5599b"
+os = "windows"
+
+    [[Thrift.download]]
+    sha256 = "c5e9dffa138696e0744e480f7cd452cfd69c4956a39efecbf1a7abbcf0b208bd"
+    url = "https://github.com/JuliaBinaryWrappers/Thrift_jll.jl/releases/download/Thrift-v0.16.0+0/Thrift.v0.16.0.x86_64-w64-mingw32-cxx11.tar.gz"
