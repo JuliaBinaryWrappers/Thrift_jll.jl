@@ -3,13 +3,13 @@ export libthrift, thrift
 
 using boost_jll
 JLLWrappers.@generate_wrapper_header("Thrift")
-JLLWrappers.@declare_library_product(libthrift, "@rpath/libthrift.0.16.0.dylib")
+JLLWrappers.@declare_library_product(libthrift, "@rpath/libthrift.0.19.0.dylib")
 JLLWrappers.@declare_executable_product(thrift)
 function __init__()
     JLLWrappers.@generate_init_header(boost_jll)
     JLLWrappers.@init_library_product(
         libthrift,
-        "lib/libthrift.0.16.0.dylib",
+        "lib/libthrift.0.19.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
