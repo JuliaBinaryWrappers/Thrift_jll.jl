@@ -1,6 +1,6 @@
 name = "Thrift_jll"
 uuid = "e0b8ae26-5307-5830-91fd-398402328850"
-version = "0.19.0+0"
+version = "0.21.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -11,4 +11,6 @@ boost_jll = "28df3c45-c428-5900-9ff8-a3135698ca75"
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.6"
-boost_jll = "=1.76.0"
+Libdl = "< 0.0.1, 1"
+Artifacts = "< 0.0.1, 1"
+boost_jll = "=1.79.0"
