@@ -3,19 +3,19 @@ export libthrift, thrift
 
 using boost_jll
 JLLWrappers.@generate_wrapper_header("Thrift")
-JLLWrappers.@declare_library_product(libthrift, "libthrift.so.0.21.0")
 JLLWrappers.@declare_executable_product(thrift)
+JLLWrappers.@declare_library_product(libthrift, "libthrift.so.0.25.0")
 function __init__()
     JLLWrappers.@generate_init_header(boost_jll)
+    JLLWrappers.@init_executable_product(
+        thrift,
+        "bin/thrift",
+    )
+
     JLLWrappers.@init_library_product(
         libthrift,
         "lib/libthrift.so",
         RTLD_LAZY | RTLD_DEEPBIND,
-    )
-
-    JLLWrappers.@init_executable_product(
-        thrift,
-        "bin/thrift",
     )
 
     JLLWrappers.@generate_init_footer()

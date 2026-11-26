@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("Thrift")
-JLLWrappers.@generate_main_file("Thrift", UUID("e0b8ae26-5307-5830-91fd-398402328850"))
+JLLWrappers.@generate_main_file("Thrift", Base.UUID("e0b8ae26-5307-5830-91fd-398402328850"))
 end  # module Thrift_jll
